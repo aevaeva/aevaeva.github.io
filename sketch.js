@@ -68,15 +68,11 @@ function preload() {
 function setup() {
   createCanvas(windowWidth, windowHeight);
 
-  textTyped += 'Ich bin der Musikant mit Taschenrechner in der Hand!\n\n';
-  textTyped += 'Ich addiere\n';
-  textTyped += 'Und subtrahiere, \n\n';
-  textTyped += 'Kontrolliere\nUnd komponiere\nUnd wenn ich diese Taste drück,\nSpielt er ein kleines Musikstück?\n\n';
-
-  textTyped += 'Ich bin der Musikant mit Taschenrechner in der Hand!\n\n';
-  textTyped += 'Ich addiere\n';
-  textTyped += 'Und subtrahiere, \n\n';
-  textTyped += 'Kontrolliere\nUnd komponiere\nUnd wenn ich diese Taste drück,\nSpielt er ein kleines Musikstück?\n\n';
+  textTyped += 'Angela Andal is an author/artist/outsider hybridizing works in cyberspace!\n\n';
+  textTyped += 'She is interested in the intersection of art and technology—the blurring of lines between organic and synthetic, ephemeral and eternal.\n';
+  
+  textTyped += 'Using code as both medium and material, she creates digital narratives; \n\n';
+  textTyped += 'investigating the organic, the emergent, and the imprecise against a backdrop of logic and precise mechanics. \n\n';
 
   centerX = width / 2;
   centerY = height / 2;
